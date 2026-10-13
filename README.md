@@ -1,2 +1,2 @@
-# My-vpn-bot2
+# My-vpn-bot
 VPN telegram
