@@ -1,3 +1,12 @@
+import logging
+import telebot
+
+# ДОБАВЬТЕ ЭТИ СТРОКИ НАВЕРХ:
+logging.basicConfig(
+    level=logging.ERROR,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+
 import os
 import telebot
 
